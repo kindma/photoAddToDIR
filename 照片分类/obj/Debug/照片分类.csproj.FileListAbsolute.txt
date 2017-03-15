@@ -1,0 +1,9 @@
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\bin\Debug\照片分类.exe.config
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\bin\Debug\照片分类.exe
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\bin\Debug\照片分类.pdb
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.csprojResolveAssemblyReference.cache
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.Form1.resources
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.Properties.Resources.resources
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.csproj.GenerateResource.Cache
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.exe
+f:\文档\visual studio 2015\Projects\照片分类\照片分类\obj\Debug\照片分类.pdb
